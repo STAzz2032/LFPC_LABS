@@ -1,0 +1,7 @@
+S-aS
+S-bS
+S-cD
+D-bD
+D-cR
+D-a 
+R-b 
